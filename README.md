@@ -2,7 +2,7 @@
 
 A modern, responsive e-commerce website for premium audio equipment built with Vue 3 and Vite. This project showcases a complete online shopping experience with cart management, checkout process, and order confirmation.
 
-![Audiophile Preview]
+
 
 ## ✨ Features
 
